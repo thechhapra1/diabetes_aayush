@@ -1,0 +1,7 @@
+numpy
+pandas
+Pillow
+Requests
+scikit_learn
+streamlit
+streamlit_lottie
